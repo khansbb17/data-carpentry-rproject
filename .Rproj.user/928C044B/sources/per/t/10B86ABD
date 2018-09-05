@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536070600902.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "10B86ABD",
+    "lastKnownWriteTime" : 28147699541868655,
+    "last_content_update" : 1536070600902,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "4CEAFD37",
+        "caption" : "Sorting_sex_species",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Sorting_sex_species&cache_key=4CEAFD37",
+        "displayedObservations" : 37,
+        "environment" : "",
+        "object" : "Sorting_sex_species",
+        "preview" : 0,
+        "totalObservations" : 37,
+        "variables" : 3
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
